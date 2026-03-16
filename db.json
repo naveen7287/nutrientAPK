@@ -1,0 +1,56 @@
+{
+  "profiles": {
+    "default": {
+      "name": "naveen",
+      "age": 25,
+      "height": 170,
+      "weight": 70,
+      "gender": "male",
+      "activityLevel": "moderate",
+      "healthIssues": "",
+      "unit": "metric",
+      "targets": {
+        "calories": 2546,
+        "protein_g": 191,
+        "fat_g": 71,
+        "carbs_g": 286
+      }
+    }
+  },
+  "logs": [
+    {
+      "food_name": "Rasam",
+      "ingredients": [
+        "Water",
+        "Curry leaves",
+        "Dried red chilies",
+        "Tomato",
+        "Seeds"
+      ],
+      "nutrition": {
+        "calories": 45,
+        "protein_g": 1,
+        "fat_g": 2,
+        "carbs_g": 6
+      },
+      "type": "homemade",
+      "id": "1773638896697",
+      "timestamp": "2026-03-16T05:28:16.697Z"
+    },
+    {
+      "food_name": "Milk",
+      "ingredients": [
+        "Milk"
+      ],
+      "nutrition": {
+        "calories": 150,
+        "protein_g": 8,
+        "fat_g": 8,
+        "carbs_g": 12
+      },
+      "type": "homemade",
+      "id": "1773639014452",
+      "timestamp": "2026-03-16T05:30:14.452Z"
+    }
+  ]
+}
